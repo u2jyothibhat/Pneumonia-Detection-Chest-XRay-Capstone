@@ -1,0 +1,13 @@
+# Training / evaluation (src/pneumonia_detection.py and the notebook)
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+pydicom
+scikit-learn
+xgboost
+tqdm
+Pillow
+huggingface_hub
